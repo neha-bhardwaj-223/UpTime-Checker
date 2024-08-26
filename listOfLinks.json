@@ -1,0 +1,130 @@
+{
+    "https://www.jmc.ac.in/": {
+        "title": "JMC",
+        "category": "College"
+    },
+    "https://www.sggscc.ac.in/": {
+        "title": "SGGSCC",
+        "category": "College"
+    },
+    "https://www.mirandahouse.ac.in/": {
+        "title": "Miranda House",
+        "category": "College"
+    },
+    "https://www.shivajicollege.ac.in/": {
+        "title": "Shivaji College",
+        "category": "College"
+    },
+    "https://www.andcollege.du.ac.in/": {
+        "title": "ANDC",
+        "category": "College"
+    },
+    "https://www.aurobindoe.du.ac.in/": {
+        "title": "Aurobindo College (Evening)",
+        "category": "College"
+    },
+    "https://www.gargicollege.in/": {
+        "title": "Gargi College",
+        "category": "College"
+    },
+    "https://www.kalindicollege.in/": {
+        "title": "Kalindi College",
+        "category": "College"
+    },
+    "https://www.vasantakfi.ac.in/": {
+        "title": "Vasanta College",
+        "category": "College"
+    },
+    "https://www.dsc.du.ac.in/": {
+        "title": "Dyal Singh College",
+        "category": "College"
+    },
+    "https://www.hfcondelhi.edu.in/": {
+        "title": "Holy Family College",
+        "category": "College"
+    },
+    "https://www.hansrajcollege.ac.in/": {
+        "title": "Hansraj College",
+        "category": "College"
+    },
+    "https://www.placementhansraj.com/placementcell/": {
+        "title": "Placement Cell Hansraj",
+        "category": "College"
+    },
+    "https://www.mhrfdc.in/": {
+        "title": "Hansraj MHRFDC",
+        "category": "College"
+    },
+    "https://www.hrcaa.in/": {
+        "title": "Hansraj HRCAA",
+        "category": "College"
+    },
+    "https://ciidret.du.ac.in/": {
+        "title": "CIIDRET, University of Delhi",
+        "category": "College"
+    },
+    "https://sangam.nsut.ac.in/adm/msc/": {
+        "title": "NSUT Admission Portal 2022",
+        "category": "College"
+    },
+    "https://online.srcc.edu/smartprof/": {
+        "title": "SRCC Smartprof",
+        "category": "SmartProf"
+    },
+    "http://139.59.70.228/smartprof/": {
+        "title": "LSR Smartprof",
+        "category": "SmartProf"
+    },
+    "https://ladyreadinghealthschool.com/": {
+        "title": "Lady Reading Health School",
+        "category": "Govt"
+    },
+    "https://www.lahdssrb.in/": {
+        "title": "LAHDC SSRB",
+        "category": "Govt"
+    },
+    "https://heliservice.ladakh.gov.in/": {
+        "title": "Ladakh Heli Services",
+        "category": "Govt"
+    },
+    "https://www.langham.capital/": {
+        "title": "Langham Capital",
+        "category": "Govt"
+    },
+    "https://ev.delhi.gov.in/": {
+        "title": "Delhi EV Charger Subsidy",
+        "category": "Govt"
+    },
+    "https://delhievincentive.in/": {
+        "title": "Delhi EV Vehicle Incentive",
+        "category": "Govt"
+    },
+    "https://connect.ladakh.gov.in/": {
+        "title": "Ladakh Connect",
+        "category": "Govt"
+    },
+    "https://www.lahdclehpermit.in/": {
+        "title": "LEH Inner Line Permit",
+        "category": "Govt"
+    },
+    "https://www.sakoon.in/": {
+        "title": "Sakoon",
+        "category": "Govt"
+    },
+    "https://www.maavaishnodevibooking.org/shrine/": {
+        "title": "SMVDSB Protocol Booking & Rent Collection",
+        "category": "Govt"
+    },
+    "https://www.112udn.in/login": {
+        "title": "112 Udham Singh Nagar",
+        "category": "Govt"
+    },
+    "https://projectmonitoring.ladakh.gov.in/": {
+        "title": "Ladakh EYE",
+        "category": "Govt"
+    },
+    "https://inventorymanagement.ladakh.gov.in/vehicle/login": {
+        "title": "Ladakh MVD & Inventory Portal",
+        "category": "Govt"
+    }
+}
